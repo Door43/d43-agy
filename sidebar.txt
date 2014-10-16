@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[agy:home|Door43 (agy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-agy|d43-agy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-agy/archive/master.zip|d43-agy.zip]]
+
+**Recent Changes**
+{{changes>ns = agy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/agy|Ethnologue data]]
+
